@@ -48,7 +48,8 @@ def game_hash
           :steals => 3,
           :blocks => 8,
           :slam_dunks => 5
-        }
+        },
+        
       ]
     },
     
